@@ -1,0 +1,22 @@
+.wordle{
+  font-size: 50px;
+}
+
+.WordGuess {
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.app {
+  background-color: rgb(135, 60, 73) ;
+}
+.correctGuess{
+  background-color: green;
+}
+
+input{
+  font-size: 25px;
+  border-radius: 10px;
+  padding: 10px;
+}
